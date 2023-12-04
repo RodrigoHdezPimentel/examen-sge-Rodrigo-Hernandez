@@ -1,4 +1,5 @@
 ¿Cuál es el nombre clave de la versión de Ubuntu que estás usando?
+<<<<<<< HEAD
 -Jammy Jellyfish
  
 ¿Qué página debería seguir para instalar odoo en Ubuntu?
@@ -9,3 +10,15 @@
 
 ¿Qué riesgo corremos si queremos subir nuestra carpeta home del usuario odoo a github sin previa configuración?
 -que haya un repositorio dentro de otro
+=======
+-
+ 
+¿Qué página debería seguir para instalar odoo en Ubuntu?
+- 
+
+¿Cuál es la base de datos SQL que utiliza odoo?
+-
+
+¿Qué riesgo corremos si queremos subir nuestra carpeta home del usuario odoo a github sin previa configuración?
+-
+>>>>>>> be29ffd21a33f8d95134bf19569ad951c6d50349

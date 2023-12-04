@@ -1,3 +1,3 @@
-# Examen de SGE
+# Prueba de SGE
 *nombre* *apellido*
-Tendré suerte
+Soy programador
